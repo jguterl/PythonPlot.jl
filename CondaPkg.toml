@@ -1,4 +1,5 @@
 channels = ["conda-forge"]
 
 [deps]
-matplotlib = ">=1"
+matplotlib = "3.6"
+tikzplotlib
